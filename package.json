@@ -1,6 +1,6 @@
 {
-  "name": "lightstep-tracer",
-  "version": "0.24.0-no-protobuf",
+  "name": "@calebmer-airtable/lightstep-tracer",
+  "version": "0.24.0-no-protobuf-patch.1",
   "main": "index.js",
   "types": "index.d.ts",
   "browser": "browser.js",
